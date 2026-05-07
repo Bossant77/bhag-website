@@ -79,8 +79,13 @@ article img {
   display: block;
   margin: 24px auto;
   max-width: 100%;
+  cursor: pointer;
   border-radius: 8px;
   transition: all 0.3s ease;
+}
+
+article img.small {
+  max-width: 240px;
 }
 
 footer {
