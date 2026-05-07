@@ -40,6 +40,6 @@ Open `index.html` in any browser.
 Hosted via GitHub Pages at:
 `https://bossant77.github.io/bhag-website/`
 
-## TODO
+## Comments
 
-- [ ] Replace `<p>placeholder...</p>` in every `<aside>` with Disqus Universal Code (after registering shortname at disqus.com)
+Powered by **Disqus** (shortname: `bhag-santiago`). Embedded in `<aside>` of every page via Universal Code.
